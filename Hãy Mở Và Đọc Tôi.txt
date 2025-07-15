@@ -1,0 +1,31 @@
+Update Mới:
+
+
+Thêm Tab TIKTOK:
+
+ 	- THÊM: mục xóa sạch dữ liệu nhanh cho các dòng máy bypass đã chặn reset và Không chặn reset (5s đến X), 
+        (không cần Boot Ramdisk hay Jaibreak)
+
+	- THÊM: Cài đặt Vùng Nhật bản, Lịch Nhật bản, định dạng giờ AM-PM, Bật sẵn Airdrop, Home ảo, Chống tắt màn hình,
+        giảm sáng, giảm âm lượng, màn hình tối Chỉ với 1 click chuột (không cần Boot Ramdisk hay Jaibreak)
+
+	- THÊM: Cài đặt App TikTok Lite Không cần đăng nhập iCloud chỉ 1 Click Chuột 
+
+
+
+Cách Xóa Dữ Liệu nhanh với Máy bypass Đã chặn Reset
+
+	- Cắm điện thoại -> Chọn Tab TIKTOK -> Click 1-Enable Reset -> Chờ cho đến khi điện thoại khởi động lại, khi nhìn thấy
+        Tool nhận lại đầy đủ thông tin iPhone thì Click tiếp -> 2-Earse All Data 
+
+
+
+Cách Cài đặt Vùng Nhật bản, Lịch Nhật bản ....
+
+	- Cắm dt -> Chọn tab TIKTOK -> chọn 1-Setup iPhone
+
+
+
+Cài đặt App TikTok Lite Không cần đăng nhập iCloud:
+
+	- Cắm dt -> Chọn tab TIKTOK -> Chọn 2-Get File -> Chọn 3- Install Tiktok Lite
